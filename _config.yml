@@ -6,6 +6,4 @@ permalink: /themes/:title/
 
 plugins: [jekyll-paginate]
 
-highlighter: pygments
-paginate: 20
 
